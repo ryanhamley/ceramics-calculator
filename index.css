@@ -1,0 +1,15 @@
+body {
+  padding: 50px 0;
+}
+
+#output-container {
+    margin: 20px 0;
+}
+
+#output-container > h3, #output-container > p {
+  display: inline-block;
+}
+
+.form-control {
+  max-width: 250px;
+}
